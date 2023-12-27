@@ -1,2 +1,2 @@
 # Sales-Performance
-Machine Learning project predicting sales performance using Python and SQL (Spark).
+Supervised Machine Learning project predicting sales performance using Python and SQL (Spark). 43 Saleforce objects explored to identify possible predictors for quota achievement. SQL and Python used to clean data and run logistic regression, Linear Regression, Multiple Linear Regression and Random Forest on various predictor candidates. Best model identified was a Multiple Linear Regression Model with Small Business Sales team which correlated Average Opportunity Amount and Average Customer Discount on Percent to Quota.
